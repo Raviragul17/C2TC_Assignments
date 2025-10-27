@@ -1,6 +1,5 @@
 package com.tnsif.assignmentthree;
-
-public class Account extends Bank {
+abstract class Account extends Bank {
     protected String accountHolderName;
     protected double balance;
 

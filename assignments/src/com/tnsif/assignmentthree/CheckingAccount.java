@@ -1,6 +1,6 @@
 package com.tnsif.assignmentthree;
 
-public class Checkingaccount extends Account {
+public class CheckingAccount extends Account {
 	    private double overdraftLimit = 1000.0;
 
 	    public CheckingAccount(String name, double balance) {

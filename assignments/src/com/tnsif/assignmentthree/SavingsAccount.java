@@ -1,6 +1,6 @@
 package com.tnsif.assignmentthree;
 
-public class Savingsaccount extends Account {
+public class SavingsAccount extends Account {
     private double interestRate = 0.03; // 3% interest rate
 
     public SavingsAccount(String name, double balance) {

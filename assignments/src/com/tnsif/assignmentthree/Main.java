@@ -14,7 +14,7 @@ public class Main {
         t.performTransaction(checking, "withdraw", 500);
 
         // Display total accounts
-        System.out.println("Total Bank Accounts: " + bank.getTotalAccounts());
+        System.out.println("Total Bank Accounts: " + Bank.getTotalAccounts());
     }
 
 
